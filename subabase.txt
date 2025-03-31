@@ -1,0 +1,5 @@
+name = test_subabase
+password = acYajIZLMdqqUTg2
+
+Project URL = https://dcxuuadpvkjldttskrsl.supabase.co
+API Key = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjeHV1YWRwdmtqbGR0dHNrcnNsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM0MjYzOTQsImV4cCI6MjA1OTAwMjM5NH0.9v3Ex-GVWOGfH6IVtPGrR10cimGb4KFFPKlrPE6DA-o
